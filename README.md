@@ -1,4 +1,3 @@
-# UART-Verilog
 # UART Transmitter and Receiver using Verilog HDL
 
 ## Description
