@@ -25,3 +25,7 @@ Designed and simulated UART communication modules using Verilog HDL for serial d
 - FPGA communication
 - Embedded systems
 - Serial data transfer
+
+## Simulation Waveform
+
+![UART Waveform](UART_SIMULATION_WAVEFORM.jpeg)
